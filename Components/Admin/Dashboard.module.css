@@ -1,0 +1,25 @@
+.barControl{
+    height: 400px;
+    width: 400px;
+
+}
+.horizontalBarControl{
+    height: 400px;
+    width: 1400px;
+    max-width: 1300px;
+    overflow:scroll;
+
+}
+.pieControl{
+    height: 400px;
+    width: 400px;
+}
+.col1{
+    background-color: rgb(222, 222, 253);
+}
+.col2{
+    background-color: rgb(198, 159, 236);
+}
+.col3{
+    background-color: rgb(241, 202, 202);
+}

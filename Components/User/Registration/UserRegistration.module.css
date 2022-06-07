@@ -1,0 +1,97 @@
+.header{
+    background-color: rgb(172, 172, 172);
+    height: 50px;
+    overflow:hidden;
+}
+.leftSideBar{
+    background-color: rgb(218, 221, 221);
+    border: 5px solid rgb(172, 172, 172);
+    height:766px;
+}
+.body{
+    background-color: rgb(245, 242, 241);
+    border: 5px solid rgb(172, 172, 172);
+    height: 766px;
+}
+.rightSideBar{
+    background-color: rgb(201, 200, 202);
+    border: 5px solid rgb(172, 172, 172);
+    height: 766px;
+}
+.below{
+    background-color: rgb(168, 167, 167);
+    height: 50px;
+}
+
+.formStyle{
+    max-width:500px;
+    margin:50px auto;
+    border: 3px solid gray;
+    border-radius: 10px;
+    box-shadow: 5px 10px 18px #888888;
+    padding: 50px;
+}
+
+.reg{
+    text-align: center;
+    text-shadow: 5px;
+    margin-bottom: 15px;
+}
+
+.inputContainer {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .icon {
+    padding: 10px;
+    background: rgb(167, 165, 167);
+    color: white;
+    min-width: 50px;
+    text-align: center;
+  }
+  
+  .inputField {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+  }
+  
+  .inputField:focus {
+    border: 2px solid dodgerblue;
+  }
+  
+  /* Set a style for the submit button */
+  .btn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.7;
+    font-size: 25px;
+    font-weight: bolder;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+
+  .underLogin{
+      margin-top:10px;
+  }
+  .loginCheckBox{
+      height: 20px;
+      width: 25px;
+      
+  }
+  .loginCheckBox1{
+      margin-left: 10px;
+      margin-bottom: 10px;
+      font-size: 20px;
+    
+}
+
